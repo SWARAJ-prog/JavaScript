@@ -13,4 +13,4 @@ let firstName ;// undefined data type mtlb value abhi define nhi ki hai
 let selectedColor = null; // null data type it is a standalone value
 let Name = Symbol("swaraj");
 
-console.log(typeof Name);
+console.log(typeof Name);z
